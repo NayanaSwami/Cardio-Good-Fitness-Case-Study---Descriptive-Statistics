@@ -1,4 +1,4 @@
-                             ![Capture](https://user-images.githubusercontent.com/93221488/180062552-6b3ffd1e-c57d-428b-85ef-b852f6a42493.PNG)
+![Capture](https://user-images.githubusercontent.com/93221488/180062552-6b3ffd1e-c57d-428b-85ef-b852f6a42493.PNG)
 ## Cardio-Good-Fitness-Case-Study---Descriptive-Statistics
 Cardio Good Fitness Case Study - Descriptive Statistics
 The market research team at AdRight is assigned the task to identify the profile of the typical customer for each treadmill product offered by CardioGood Fitness. The market research team decides to investigate whether there are differences across the product lines with respect to customer characteristics. The team decides to collect data on individuals who purchased a treadmill at a CardioGoodFitness retail store during the prior three months. The data are stored in the CardioGoodFitness.csv file.
