@@ -24,3 +24,7 @@ and self-rated fitness on an 1-to-5 scale, where 1 is poor shape and 5 is excell
 
 
 ![Capture](https://user-images.githubusercontent.com/93221488/180062552-6b3ffd1e-c57d-428b-85ef-b852f6a42493.PNG)
+
+
+![Descriptive Statistics](https://user-images.githubusercontent.com/93221488/180075684-f713dd16-7bce-494c-9644-68c05711c6f7.PNG)
+
